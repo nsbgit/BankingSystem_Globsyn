@@ -1,0 +1,61 @@
+
+	/*************************************************/
+	||	Project name:- Banking System Using Java	||
+	/*************************************************/
+
+Group Members :-
+===============
+NAME					FORM NUMBER	COLLEGE NAME
+=====					===========	===============
+1. Subhrangshu Chaudhuri	15489			JIS COLLEGE OF ENGINEERING
+2. Subhajit Ganguly		15452			JIS COLLEGE OF ENGINEERING
+3. Sukanta Sharma		15499			JIS COLLEGE OF ENGINEERING
+4. Subhro Dutta			15502			JIS COLLEGE OF ENGINEERING
+5. Satyabrata Sarkar		15501			JIS COLLEGE OF ENGINEERING
+
+
+
+		/***************************************/
+		||			HOW TO RUN			||
+		/***************************************/
+
+	Our project is made and run with Eclipse Java EE IDE for Web Developers Version: Juno Service Release 2 Build id: 20130225-0426 with WINDOWS 7 OR HIGHER VERSION
+
+jdk version
+=========
+
+JavaSE version 1.7 update 21
+
+jre version
+========
+
+jre 1.7.0_21
+
+
+**************************
+RUN FROM CLASS "Main.java"
+**************************
+
+
+LOGIN ID AND PASSWORD FOR ADMIN
+==================================
+
+
+ID - admin
+PASSWORD - 1234
+
+
+FOR OPERATOR USER ID AND PASSWORD
+=====================================
+
+Login to admin and either create an operator or click on show all operators and collect user id and password.
+
+N.B. - For operator user id is first name
+
+
+
+
+
+
+
+
